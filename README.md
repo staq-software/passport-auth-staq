@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/passport-auth-staq.svg)](https://www.npmjs.com/package/passport-auth-staq)
+
 # passport-auth-staq
 
 [Passport](http://passportjs.org/) strategy for authenticating with [AuthStaq](https://auth.staqsoftware.com)
@@ -78,3 +80,6 @@ The AuthStaq profile returned from this strategy has these properties:
 * email: The email address the user used to register with your application
 * firstName: The user's first name
 * lastName: The user's last name
+
+## Contributing
+Feel free to open issues or pull requests!
