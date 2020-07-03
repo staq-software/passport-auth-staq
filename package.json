@@ -1,6 +1,6 @@
 {
   "name": "passport-auth-staq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for AuthStaq Oauth 2.0 authentication",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tswayne/passport-auth-staq-js.git"
+    "url": "git+https://github.com/staq-software/passport-auth-staq-js.git"
   },
   "keywords": [
     "oauth",
@@ -16,9 +16,9 @@
     "passport",
     "strategy"
   ],
-  "homepage": "https://github.com/tswayne/passport-auth-staq-js#readme",
+  "homepage": "https://github.com/staq-software/passport-auth-staq-js#readme",
   "bugs": {
-    "url": "https://github.com/tswayne/passport-auth-staq-js/issues"
+    "url": "https://github.com/staq-software/passport-auth-staq-js/issues"
   },
   "author": "tswayne",
   "license": "ISC",
